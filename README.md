@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rahulsingh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on meta
 - 📫 How to reach me www.linkedin.com/in/rahul-s-6949a8228
 
 <!---
