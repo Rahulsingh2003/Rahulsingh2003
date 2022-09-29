@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahulsingh
+- 👋 Hi, I’m Rahul Singh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me www.linkedin.com/in/rahul-s-6949a8228
