@@ -1,9 +1,9 @@
-![I'm Rahul singh](https://user-images.githubusercontent.com/89693207/194376540-70aa69ac-4c68-41b8-ba35-36777be101ad.png)
+![I'm Rahul singh (1)](https://user-images.githubusercontent.com/89693207/194378482-92fb8ea9-c27b-41c2-a9a8-3c1f62198ccc.jpg)
 
 
 
 
-- 👋 Hi, I’m Rahul Singh
+- ⚽ I’m currently working on connectio
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me www.linkedin.com/in/rahul-s-6949a8228
