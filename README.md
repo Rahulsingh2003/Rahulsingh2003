@@ -3,12 +3,10 @@
 
 
 
-- ⚽ I’m currently working on connectio
-- 👀 I’m interested in web development
+- ⚽ I’m currently working on projects
+- 👀 I’m interested in web development              ![image](https://user-images.githubusercontent.com/89693207/194379787-571301ad-4993-4721-b216-9294557e8dc9.png)
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me www.linkedin.com/in/rahul-s-6949a8228
+- 🤝 I’m looking to collabrate on project
 
-<!---
-Rahulsingh2003/Rahulsingh2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CONNECT WITH ME 🤝
+
