@@ -1,4 +1,4 @@
-![I'm Rahul singh (1)](https://user-images.githubusercontent.com/89693207/194378482-92fb8ea9-c27b-41c2-a9a8-3c1f62198ccc.jpg)
+<h1>HI /n I'M RAHUL SINGH</h1>
 
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
