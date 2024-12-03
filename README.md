@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MYSQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, MYSQL**
 
 - 📫 How to reach me **rs9462784650@gmail.com**
 
