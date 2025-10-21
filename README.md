@@ -6,11 +6,10 @@
 
 - 🔭 I’m currently working on **backend development**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MYSQL**
 
 - 📫 How to reach me **rs9462784650@gmail.com**
 
